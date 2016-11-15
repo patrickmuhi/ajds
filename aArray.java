@@ -17,7 +17,7 @@ public class aArray {
     private final String USER_FILE;
     Context context;
 
-    public allArray(Context context, String database){
+    public aArray(Context context, String database){
         this.context = context;
         USER_FILE = database;
     }
