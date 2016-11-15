@@ -17,7 +17,7 @@ public class aObject {
     Context context;
     String USER_FILE;
 
-    public allObj(Context context, String u){
+    public aObject(Context context, String u){
         this.context = context;
         this.USER_FILE = u;
     }
