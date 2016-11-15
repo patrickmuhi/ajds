@@ -10,9 +10,9 @@ import java.io.FileOutputStream;
 import java.io.FileReader;
 
 /**
- * Created by Vuga Inc.
+ * Created by Ceddy Muhoza.
  */
-public class allArray {
+public class aArray {
 
     private final String USER_FILE;
     Context context;
